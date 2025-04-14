@@ -38,10 +38,11 @@ body {
   color: #555;
   padding: 10px 25px;
   height: 60px;
+  width: 50px;
   border-radius: 30px;
   flex: 1;
   margin-right: 16px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .search button {
@@ -69,7 +70,7 @@ body {
 }
 
 .weather h2 {
-  font-size: 45px;
+  font-size: 35px;
   font-weight: 400;
   margin-top: -10px;
 }
@@ -78,8 +79,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 20px;
+  padding: 10 80px;
   margin-top: 50px;
+  gap: 30px;
 }
 
 .col {
@@ -89,7 +91,7 @@ body {
 }
 
 .col img {
-  width: 40px;
+  width: 30px;
   margin-right: 10px;
 }
 
